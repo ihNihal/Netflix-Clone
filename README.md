@@ -1,5 +1,5 @@
-[url=https://ibb.co/GTggyZT][img]https://i.ibb.co/xHVVWnH/2.jpg[/img][/url]
-[url=https://ibb.co/cYqmtDV][img]https://i.ibb.co/hY0qHDw/Screenshot-2022-05-19-163038.jpg[/img][/url]
+https://ibb.co/GTggyZT
+https://ibb.co/cYqmtDV
 
 # Getting Started with Create React App
 
